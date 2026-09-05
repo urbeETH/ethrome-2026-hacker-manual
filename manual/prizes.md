@@ -110,19 +110,19 @@ Prizes are paid directly by the Arkiv team (Golem Factory GmbH) as a grant for d
 
 #### Everything you need to start
 
-#### Start here
+**Start here**
 
 - [Arkiv at ETHRome](https://hub.arkiv.network/ethrome), rules, schema template, support hours. Live before the weekend.
 - [Arkiv Hub](https://hub.arkiv.network)
 - [docs.arkiv.network](https://docs.arkiv.network)
 
-#### Code and SDK
+**Code and SDK**
 
 - TypeScript SDK: `npm install @arkiv-network/sdk`, v0.7.x
 - Searching npm? `arkiv-sdk` and `golem-base-sdk` are the previous lineage, not the one to install.
 - [Arkiv on GitHub](https://github.com/arkiv-network)
 
-#### Ask
+**Ask**
 
 - [Arkiv Discord](https://discord.gg/arkiv)
 - The Arkiv topic of the ETHRome group chat, for anything about the bounty itself
@@ -183,7 +183,7 @@ The Swarm Foundation is interested in projects worth continuing, not just demos.
 
 #### Everything you need to start
 
-#### Start here
+**Start here**
 
 - [Swarm ID getting started](https://swarm.snaha.net/docs/getting-started)
 - [Demo app](https://swarm-demo.snaha.net)
@@ -191,13 +191,13 @@ The Swarm Foundation is interested in projects worth continuing, not just demos.
 - [Source on GitHub](https://github.com/snaha/swarm-id)
 - Install: `npm install @snaha/swarm-id`
 
-#### Docs and SDK
+**Docs and SDK**
 
 - [Developer cheatsheet](https://swarm-devrel.bzz.link), two pages, print ready. First upload with no install, running and funding a Bee node, Bee-js, swarm-cli, gateways, AI assisted setup.
 - [docs.ethswarm.org](https://docs.ethswarm.org)
 - [Bee-js SDK](https://github.com/ethersphere/bee-js)
 
-#### Learn from these
+**Learn from these**
 
 - [Swarm MCP App](https://github.com/ethersphere/swarm-accelerator/issues/15), stamp and file management inside AI conversations.
 - [Swarm Mail](https://github.com/ethersphere/swarm-accelerator/issues/14), feeds as encrypted mailboxes.
@@ -268,17 +268,17 @@ On close calls they lean towards projects that use native Avalanche interoperabi
 
 #### Everything you need to start
 
-#### Start here
+**Start here**
 
 - [Avalanche docs](https://docs.avax.network/)
 - [Core testnet faucet](https://core.app/tools/testnet-faucet/), for Fuji test AVAX
 
-#### Code and SDK
+**Code and SDK**
 
 - [Ava Labs on GitHub](https://github.com/ava-labs)
 - [AvalancheJS](https://github.com/ava-labs/avalanchejs)
 
-#### Ask
+**Ask**
 
 - [Avalanche developer Discord](https://discord.gg/avax)
 - The Team1 topic of the ETHRome group chat, for anything about the bounty itself
@@ -287,4 +287,4 @@ On close calls they lean towards projects that use native Avalanche interoperabi
 >
 > His session opens Friday evening at 19:30: **Build the Proof, Not the Pitch: Shipping a Verifiable Avalanche Project**, twenty minutes. It walks through the Avalanche build surface and the bounty requirements, which makes it the cheapest twenty minutes of your weekend if you are going for this one.
 
-****$4,500**** in sponsor bounties, on top of the ETHRome prize.
+**$4,500** in sponsor bounties, on top of the ETHRome prize.

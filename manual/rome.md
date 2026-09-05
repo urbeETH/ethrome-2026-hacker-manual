@@ -56,11 +56,11 @@ Map: [Map of Testaccio, Ostiense, Trastevere, Monti, San Saba and the city centr
 | From the airports | Route |
 |---|---|
 | Fiumicino (FCO) | Leonardo Express to Termini (32 minutes, EUR 14), then Metro B to Piramide. |
-| FL1 regional train toward Roma Ostiense, then walk or a short ride to Urbe Hub. |  |
-| Taxi if you are carrying luggage or arriving late: around EUR 60 to Urbe Hub. |  |
+| Fiumicino (FCO) | FL1 regional train toward Roma Ostiense, then walk or a short ride to Urbe Hub. |
+| Fiumicino (FCO) | Taxi if you are carrying luggage or arriving late: around EUR 60 to Urbe Hub. |
 | Ciampino (CIA) | Airport bus to Termini, then Metro B to Piramide. |
-| ATAC bus 520 or 720 if you want the public transport route. |  |
-| Taxi if you are carrying luggage or arriving late: around EUR 50 to Urbe Hub. |  |
+| Ciampino (CIA) | ATAC bus 520 or 720 if you want the public transport route. |
+| Ciampino (CIA) | Taxi if you are carrying luggage or arriving late: around EUR 50 to Urbe Hub. |
 
 > 🚏 **Stop names** (TBD) The exact bus and tram stop names still need a final on-the-ground check by the organizing team before you should trust them blindly. The metro and train directions are solid.
 
