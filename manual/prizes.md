@@ -1,7 +1,7 @@
 ---
 title: Prizes and Bounties
 source: https://ethrome.org/hackermanual/prizes.html
-synced: 2026-09-05
+synced: 2026-09-07
 ---
 # Prizes and Bounties
 

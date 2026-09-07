@@ -1,7 +1,7 @@
 ---
 title: Schedule
 source: https://ethrome.org/hackermanual/schedule.html
-synced: 2026-09-05
+synced: 2026-09-07
 ---
 # Schedule
 

@@ -1,7 +1,7 @@
 ---
 title: FAQ
 source: https://ethrome.org/hackermanual/faq.html
-synced: 2026-09-05
+synced: 2026-09-07
 ---
 # FAQ
 
@@ -60,6 +60,10 @@ Miss one and the team is excluded from the competition. Full detail on the [Rule
 ### When and where do I submit?
 
 Through a single **Google Form**. Deadline: Sunday 13 September at 10:00 (Europe/Rome). Everything the form asks is on the [Submit](submissions.md) page.
+
+### Can I give this manual to my AI agent?
+
+Yes, that is why it also exists in Markdown. The repo [urbeETH/ethrome-2026-hacker-manual](https://github.com/urbeETH/ethrome-2026-hacker-manual) mirrors these pages: clone it next to your project, add it as a submodule, or point your tool at the raw single file version. Pull before each session, the repo is refreshed when the site changes. If the two ever disagree, the site wins.
 
 ### Where do I ask something that is not here?
 

@@ -7,7 +7,7 @@ It exists so you can put the manual **inside your agentic tools** (Claude Code, 
 The canonical version is the website: **https://ethrome.org/hackermanual**. If anything here ever disagrees with the site, the site wins.
 
 <!-- sync:start -->
-Synced from [https://ethrome.org/hackermanual](https://ethrome.org/hackermanual) on **2026-09-05** (site commit `d7e7fbb`).
+Synced from [https://ethrome.org/hackermanual](https://ethrome.org/hackermanual) on **2026-09-07** (site commit `b1e7066`).
 <!-- sync:end -->
 
 ## What is inside

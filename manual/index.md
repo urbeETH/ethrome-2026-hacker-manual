@@ -1,7 +1,7 @@
 ---
 title: ETHRome 2026 Hacker Manual
 source: https://ethrome.org/hackermanual/index.html
-synced: 2026-09-05
+synced: 2026-09-07
 ---
 # Hacker Manual
 
@@ -85,6 +85,8 @@ The questions builders actually ask, answered in one place.
 Where to stay, how to reach the venue from either airport, where to eat, and what to see between commits.
 
 [Read →](rome.md)
+
+> 🤖 **Building with an AI agent?** The manual is also on GitHub in plain Markdown: [urbeETH/ethrome-2026-hacker-manual](https://github.com/urbeETH/ethrome-2026-hacker-manual), one file per page plus the whole thing in a single file. Clone it next to your project, or point your tool at the raw file, so your agent knows the rules, the deadlines and the bounties.
 
 ## One winning team.
 
