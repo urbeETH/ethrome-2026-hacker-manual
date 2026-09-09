@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 source: https://ethrome.org/hackermanual/conduct.html
-synced: 2026-09-07
+synced: 2026-09-09
 ---
 # Code of Conduct
 

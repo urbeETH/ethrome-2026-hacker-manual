@@ -1,7 +1,7 @@
 ---
 title: ETHRome 2026 Hacker Manual
 source: https://ethrome.org/hackermanual/index.html
-synced: 2026-09-07
+synced: 2026-09-09
 ---
 # Hacker Manual
 
@@ -26,7 +26,7 @@ Forty selected builders, forty hours, one weekend at Urbe Hub. Everything you ne
 | **Doors open** | Friday 16:00 |
 | **Submission** | Sunday 10:00 |
 
-> 🚧 **Two links are still being finalised** and are marked (TBD) wherever they appear: the ETHRome submission form, and the Team1 form that sits on top of it. All three sponsor briefs are live in full on the [Prizes](prizes.md) page. The links land here as they are confirmed, and the Telegram group gets a ping each time. Everything else is final.
+> 🚧 **Two links are still being finalised** and are marked (TBD) wherever they appear: the ETHRome submission form, and the Team1 form that sits on top of it. Three of the four sponsor briefs are live in full on the [Prizes](prizes.md) page; the ENS one lands as soon as it arrives from the sponsor. The links land here as they are confirmed, and the Telegram group gets a ping each time. Everything else is final.
 
 ## Nine pages, no surprises.
 
@@ -96,7 +96,7 @@ Where to stay, how to reach the venue from either airport, where to eat, and wha
 
 An annual membership for every member of the winning team, up to three people, at Rome's first web3 coworking space. The same room you will have been building in all weekend.
 
-On top of that sit **$4,500 in sponsor bounties** confirmed so far, and they work under completely different rules: they are chosen and paid by the sponsors alone. ETHRome has no say in who wins them and does not handle delivery.
+On top of that sit **$5,000 in sponsor bounties** confirmed so far, and they work under completely different rules: they are chosen and paid by the sponsors alone. ETHRome has no say in who wins them and does not handle delivery.
 
 [See the prize and the sponsors →](prizes.md)
 

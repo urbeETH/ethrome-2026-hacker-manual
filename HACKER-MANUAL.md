@@ -1,6 +1,6 @@
 # ETHRome 2026 Hacker Manual
 
-Synced from https://ethrome.org/hackermanual on 2026-09-07 (site commit `b1e7066`). The website is the canonical version.
+Synced from https://ethrome.org/hackermanual on 2026-09-09 (site commit `1b51fdb`). The website is the canonical version.
 
 ## Contents
 
@@ -38,7 +38,7 @@ Forty selected builders, forty hours, one weekend at Urbe Hub. Everything you ne
 | **Doors open** | Friday 16:00 |
 | **Submission** | Sunday 10:00 |
 
-> 🚧 **Two links are still being finalised** and are marked (TBD) wherever they appear: the ETHRome submission form, and the Team1 form that sits on top of it. All three sponsor briefs are live in full on the [Prizes](#prizes-and-bounties) page. The links land here as they are confirmed, and the Telegram group gets a ping each time. Everything else is final.
+> 🚧 **Two links are still being finalised** and are marked (TBD) wherever they appear: the ETHRome submission form, and the Team1 form that sits on top of it. Three of the four sponsor briefs are live in full on the [Prizes](#prizes-and-bounties) page; the ENS one lands as soon as it arrives from the sponsor. The links land here as they are confirmed, and the Telegram group gets a ping each time. Everything else is final.
 
 ### Nine pages, no surprises.
 
@@ -108,7 +108,7 @@ Where to stay, how to reach the venue from either airport, where to eat, and wha
 
 An annual membership for every member of the winning team, up to three people, at Rome's first web3 coworking space. The same room you will have been building in all weekend.
 
-On top of that sit **$4,500 in sponsor bounties** confirmed so far, and they work under completely different rules: they are chosen and paid by the sponsors alone. ETHRome has no say in who wins them and does not handle delivery.
+On top of that sit **$5,000 in sponsor bounties** confirmed so far, and they work under completely different rules: they are chosen and paid by the sponsors alone. ETHRome has no say in who wins them and does not handle delivery.
 
 [See the prize and the sponsors →](#prizes-and-bounties)
 
@@ -191,7 +191,7 @@ A year of desks, rooms and community at Rome's first web3 coworking space: the s
 
 ### How bounties work
 
-*Three bounties on top of the ETHRome prize. Open a sponsor to read what it wants built.*
+*Four bounties on top of the ETHRome prize. Open a sponsor to read what it wants built.*
 
 1. **Sponsors choose and sponsors pay.** ETHRome has no say in who wins a bounty and does not handle delivery in any way. Each sponsor has its own brief, its own criteria and its own process, and runs any KYC on its own side.
 2. **Apply to as many as genuinely fit.** There is no limit, and going after a bounty does not affect how the ETHRome judges score you.
@@ -461,7 +461,16 @@ On close calls they lean towards projects that use native Avalanche interoperabi
 >
 > His session opens Friday evening at 19:30: **Build the Proof, Not the Pitch: Shipping a Verifiable Avalanche Project**, twenty minutes. It walks through the Avalanche build surface and the bounty requirements, which makes it the cheapest twenty minutes of your weekend if you are going for this one.
 
-**$4,500** in sponsor bounties, on top of the ETHRome prize.
+#### ENS · $500: Brief coming from ENS
+
+*Details not published yet.*
+
+> ⚠ **ENS joined on 8 September and its brief has not landed yet.** The $500 is confirmed. What it asks for, how it is judged and how it is paid come from ENS, and go here the moment they arrive (TBD).
+
+- **ENS picks the winners and pays them directly**, like every sponsor on this page.
+- **Tick ENS in the submission form** to be considered.
+
+**$5,000** in sponsor bounties, on top of the ETHRome prize.
 
 ## Schedule
 
@@ -762,15 +771,15 @@ To be judged you need the minimum requirements: open source code, contract addre
 
 #### What do I win?
 
-The winning team wins one year of Urbe Hub membership for every member, up to 3 people. On top of that, whatever bounties the sponsors decide to award: $4,500 is on the table.
+The winning team wins one year of Urbe Hub membership for every member, up to 3 people. On top of that, whatever bounties the sponsors decide to award: $5,000 is on the table.
 
 #### Who are the sponsors?
 
-Arkiv, Team1 and Swarm. See the [Prizes](#prizes-and-bounties) page for what they bring. Open a sponsor there to read what it wants you to build.
+Arkiv, Team1, Swarm and ENS. See the [Prizes](#prizes-and-bounties) page for what they bring. Open a sponsor there to read what it wants you to build.
 
 #### What are the bounties?
 
-Bounties are put up, chosen and paid by the sponsors alone: ETHRome has no say in the selection and does not handle delivery in any way. All three sponsors have confirmed: **Arkiv $2,500**, **Team1 $1,000** and **Swarm $1,000**, for a pool of **$4,500**. What each bounty asks for sits inside its own block on the [Prizes](#prizes-and-bounties) page: click a sponsor and it opens. All three briefs are there in full.
+Bounties are put up, chosen and paid by the sponsors alone: ETHRome has no say in the selection and does not handle delivery in any way. All four sponsors have confirmed their amount: **Arkiv $2,500**, **Team1 $1,000**, **Swarm $1,000** and **ENS $500**, for a pool of **$5,000**. What each bounty asks for sits inside its own block on the [Prizes](#prizes-and-bounties) page: click a sponsor and it opens. Three briefs are there in full; the ENS one is on its way from the sponsor and lands in its block as soon as it arrives.
 
 #### Can I apply to more than one bounty?
 

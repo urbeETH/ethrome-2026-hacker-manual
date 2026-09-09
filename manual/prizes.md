@@ -1,7 +1,7 @@
 ---
 title: Prizes and Bounties
 source: https://ethrome.org/hackermanual/prizes.html
-synced: 2026-09-07
+synced: 2026-09-09
 ---
 # Prizes and Bounties
 
@@ -17,7 +17,7 @@ A year of desks, rooms and community at Rome's first web3 coworking space: the s
 
 ## How bounties work
 
-*Three bounties on top of the ETHRome prize. Open a sponsor to read what it wants built.*
+*Four bounties on top of the ETHRome prize. Open a sponsor to read what it wants built.*
 
 1. **Sponsors choose and sponsors pay.** ETHRome has no say in who wins a bounty and does not handle delivery in any way. Each sponsor has its own brief, its own criteria and its own process, and runs any KYC on its own side.
 2. **Apply to as many as genuinely fit.** There is no limit, and going after a bounty does not affect how the ETHRome judges score you.
@@ -287,4 +287,13 @@ On close calls they lean towards projects that use native Avalanche interoperabi
 >
 > His session opens Friday evening at 19:30: **Build the Proof, Not the Pitch: Shipping a Verifiable Avalanche Project**, twenty minutes. It walks through the Avalanche build surface and the bounty requirements, which makes it the cheapest twenty minutes of your weekend if you are going for this one.
 
-**$4,500** in sponsor bounties, on top of the ETHRome prize.
+### ENS · $500: Brief coming from ENS
+
+*Details not published yet.*
+
+> ⚠ **ENS joined on 8 September and its brief has not landed yet.** The $500 is confirmed. What it asks for, how it is judged and how it is paid come from ENS, and go here the moment they arrive (TBD).
+
+- **ENS picks the winners and pays them directly**, like every sponsor on this page.
+- **Tick ENS in the submission form** to be considered.
+
+**$5,000** in sponsor bounties, on top of the ETHRome prize.

@@ -1,7 +1,7 @@
 ---
 title: FAQ
 source: https://ethrome.org/hackermanual/faq.html
-synced: 2026-09-07
+synced: 2026-09-09
 ---
 # FAQ
 
@@ -79,15 +79,15 @@ To be judged you need the minimum requirements: open source code, contract addre
 
 ### What do I win?
 
-The winning team wins one year of Urbe Hub membership for every member, up to 3 people. On top of that, whatever bounties the sponsors decide to award: $4,500 is on the table.
+The winning team wins one year of Urbe Hub membership for every member, up to 3 people. On top of that, whatever bounties the sponsors decide to award: $5,000 is on the table.
 
 ### Who are the sponsors?
 
-Arkiv, Team1 and Swarm. See the [Prizes](prizes.md) page for what they bring. Open a sponsor there to read what it wants you to build.
+Arkiv, Team1, Swarm and ENS. See the [Prizes](prizes.md) page for what they bring. Open a sponsor there to read what it wants you to build.
 
 ### What are the bounties?
 
-Bounties are put up, chosen and paid by the sponsors alone: ETHRome has no say in the selection and does not handle delivery in any way. All three sponsors have confirmed: **Arkiv $2,500**, **Team1 $1,000** and **Swarm $1,000**, for a pool of **$4,500**. What each bounty asks for sits inside its own block on the [Prizes](prizes.md) page: click a sponsor and it opens. All three briefs are there in full.
+Bounties are put up, chosen and paid by the sponsors alone: ETHRome has no say in the selection and does not handle delivery in any way. All four sponsors have confirmed their amount: **Arkiv $2,500**, **Team1 $1,000**, **Swarm $1,000** and **ENS $500**, for a pool of **$5,000**. What each bounty asks for sits inside its own block on the [Prizes](prizes.md) page: click a sponsor and it opens. Three briefs are there in full; the ENS one is on its way from the sponsor and lands in its block as soon as it arrives.
 
 ### Can I apply to more than one bounty?
 
