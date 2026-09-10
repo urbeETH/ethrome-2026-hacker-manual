@@ -15,7 +15,7 @@ This repository is the **ETHRome 2026 Hacker Manual** in Markdown, a mirror of h
 |---|---|
 | `manual/index.md` | Quick facts, venue, the four moments that matter, the prize in short |
 | `manual/rules.md` | Who can take part, teams, what counts as a valid build, pre-existing projects, minors |
-| `manual/prizes.md` | The ETHRome prize and the sponsor bounty briefs: Arkiv, Swarm and Team1 in full, ENS pending |
+| `manual/prizes.md` | The ETHRome prize and the four sponsor bounty briefs, in full: Arkiv, Swarm, Team1, ENS |
 | `manual/schedule.md` | The three days hour by hour |
 | `manual/judging.md` | Minimum requirements to be judged, how a slot runs, criteria and weights |
 | `manual/submissions.md` | What the submission form asks, the deadline, the final checklist |
@@ -34,7 +34,7 @@ This repository is the **ETHRome 2026 Hacker Manual** in Markdown, a mirror of h
 - **Submit:** one Google Form (link published before the event), deadline **Sunday 13 September 10:00**, no extensions. Public repo that stays open for 4 weeks, demo video of max 3 minutes, contract addresses if anything is deployed on chain. Tick the sponsor bounties you apply to.
 - **Judged on:** Creativity 10%, Feasibility 15%, Innovation and significance 25%, Code 50%. Details in `manual/judging.md`.
 - **Prize:** one annual Urbe Hub membership for every member of the winning team, up to 3 people. One ranking, one winning team.
-- **Bounties:** Arkiv $2,500, Swarm $1,000, Team1 $1,000, ENS $500, $5,000 in total, chosen and paid by the sponsors. Briefs in `manual/prizes.md`; the ENS brief has not been published yet.
+- **Bounties:** Arkiv $2,500, Swarm $1,000, Team1 $1,000, ENS $500, $5,000 in total, chosen and paid by the sponsors. All four briefs are in `manual/prizes.md`.
 
 ## Submissions
 

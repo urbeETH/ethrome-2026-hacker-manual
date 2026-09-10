@@ -1,7 +1,7 @@
 ---
 title: FAQ
 source: https://ethrome.org/hackermanual/faq.html
-synced: 2026-09-09
+synced: 2026-09-10
 ---
 # FAQ
 
@@ -87,7 +87,7 @@ Arkiv, Team1, Swarm and ENS. See the [Prizes](prizes.md) page for what they brin
 
 ### What are the bounties?
 
-Bounties are put up, chosen and paid by the sponsors alone: ETHRome has no say in the selection and does not handle delivery in any way. All four sponsors have confirmed their amount: **Arkiv $2,500**, **Team1 $1,000**, **Swarm $1,000** and **ENS $500**, for a pool of **$5,000**. What each bounty asks for sits inside its own block on the [Prizes](prizes.md) page: click a sponsor and it opens. Three briefs are there in full; the ENS one is on its way from the sponsor and lands in its block as soon as it arrives.
+Bounties are put up, chosen and paid by the sponsors alone: ETHRome has no say in the selection and does not handle delivery in any way. All four sponsors have confirmed their amount: **Arkiv $2,500**, **Team1 $1,000**, **Swarm $1,000** and **ENS $500**, for a pool of **$5,000**. What each bounty asks for sits inside its own block on the [Prizes](prizes.md) page: click a sponsor and it opens. All four briefs are there in full.
 
 ### Can I apply to more than one bounty?
 

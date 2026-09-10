@@ -1,6 +1,6 @@
 # ETHRome 2026 Hacker Manual
 
-Synced from https://ethrome.org/hackermanual on 2026-09-09 (site commit `1b51fdb`). The website is the canonical version.
+Synced from https://ethrome.org/hackermanual on 2026-09-10 (site commit `b0a1218`). The website is the canonical version.
 
 ## Contents
 
@@ -38,7 +38,7 @@ Forty selected builders, forty hours, one weekend at Urbe Hub. Everything you ne
 | **Doors open** | Friday 16:00 |
 | **Submission** | Sunday 10:00 |
 
-> 🚧 **Two links are still being finalised** and are marked (TBD) wherever they appear: the ETHRome submission form, and the Team1 form that sits on top of it. Three of the four sponsor briefs are live in full on the [Prizes](#prizes-and-bounties) page; the ENS one lands as soon as it arrives from the sponsor. The links land here as they are confirmed, and the Telegram group gets a ping each time. Everything else is final.
+> 🚧 **Two links are still being finalised** and are marked (TBD) wherever they appear: the ETHRome submission form, and the Team1 form that sits on top of it. All four sponsor briefs are live in full on the [Prizes](#prizes-and-bounties) page. The links land here as they are confirmed, and the Telegram group gets a ping each time. Everything else is final.
 
 ### Nine pages, no surprises.
 
@@ -461,14 +461,73 @@ On close calls they lean towards projects that use native Avalanche interoperabi
 >
 > His session opens Friday evening at 19:30: **Build the Proof, Not the Pitch: Shipping a Verifiable Avalanche Project**, twenty minutes. It walks through the Avalanche build surface and the bounty requirements, which makes it the cheapest twenty minutes of your weekend if you are going for this one.
 
-#### ENS · $500: Brief coming from ENS
+#### ENS · $500: Build with ENSv2
 
-*Details not published yet.*
+*Up to five projects share the pool.*
 
-> ⚠ **ENS joined on 8 September and its brief has not landed yet.** The $500 is confirmed. What it asks for, how it is judged and how it is paid come from ENS, and go here the moment they arrive (TBD).
+| Value | Detail |
+|---|---|
+| **$500** | pool prize from ENS |
+| **Up to 5** | projects share the pool |
 
-- **ENS picks the winners and pays them directly**, like every sponsor on this page.
-- **Tick ENS in the submission form** to be considered.
+**ENS is the Ethereum Name Service.** This bounty is not about the ENS you already know: it is about **ENSv2**, the next evolution of the protocol, live in beta on Sepolia. It introduces hierarchical registries, enhanced role based permissions, per account resolvers and programmable subname infrastructure.
+
+##### What to build
+
+A functional project that uses ENSv2 as a core part of its architecture. It can go after any of the three ETHRome directions, AI, Finance or Privacy, but the ENS side of it has to run on the **ENSv2 beta deployment on Sepolia**.
+
+Directions they find interesting, as examples rather than restrictions:
+
+- A custom subname registry for users, applications or communities.
+- Names and profiles for AI agents inside an agent controlled namespace.
+- Rentable, permissioned or unruggable subname systems.
+- ENSv2 roles used to delegate management of names, records or subnames.
+- Financial applications built around named accounts, payment profiles or contracts.
+- Experiments with per account resolvers, record permissions or record aliasing.
+- Privacy aware identity or payment systems using custom resolvers.
+- ENSv2 migration, indexing, monitoring or developer tooling.
+
+What they are asking for, in one line: show them what becomes possible when every ENS name can operate its own programmable registry.
+
+##### To qualify
+
+- [ ] **It talks to the official ENSv2 beta contracts on Sepolia.**
+- [ ] **ENSv2 does real work in the product**, rather than sitting there for display.
+- [ ] **The integration runs end to end on live testnet data.**
+- [ ] **The demo stands on its own.** No hard coded names, addresses or results.
+- [ ] **An accessible source code repository** comes with the submission.
+- [ ] **The relevant Sepolia names, contract addresses or transaction links** are provided.
+- [ ] **A working demo or a demo video**, plus an explanation of your ENSv2 architecture during judging.
+- [ ] **Built or materially extended during ETHRome.**
+
+> ⚡ **It has to be v2.** Resolving an existing ENS name, showing the ENS profile your wallet hands you or pointing an RPC endpoint somewhere else, without touching ENSv2 specific functionality, does not qualify. The v2 features are the bounty.
+
+##### How they judge, in order of weight
+
+1. **Depth of the ENSv2 integration.** How far into v2 you actually went.
+2. **Technical execution and completeness.**
+3. **Creativity and usefulness.**
+4. **Relevance to AI, Finance or Privacy.**
+
+##### Prize and payment
+
+Up to five projects take a share of the $500 pool. **ENS picks the winners and the ENS team handles the payout directly**, like every sponsor on this page. **Tick ENS in the submission form** to be considered.
+
+##### Everything you need to start
+
+**Start here**
+
+- [ENSv2 overview](https://docs.ens.domains/ensv2/overview/)
+- [Guide for application developers](https://docs.ens.domains/ensv2/guides/app-developers/)
+- [Guide for contract developers](https://docs.ens.domains/ensv2/guides/contract-developers/)
+
+**Poke at it live**
+
+- [ENSv2 Explorer](https://explorer.ens.dev/)
+- [ENSv2 Subregistry Lab](https://ens-subregistry-demo.netlify.app/)
+- [Subregistry Lab source code](https://github.com/yashgo0018/subregistry-lab)
+
+> 💬 **Who to talk to.** Questions about this bounty go in the General topic of the ETHRome group chat and the organisers relay them to ENS. For the stack itself, the docs and the explorer above answer faster than anyone.
 
 **$5,000** in sponsor bounties, on top of the ETHRome prize.
 
@@ -779,7 +838,7 @@ Arkiv, Team1, Swarm and ENS. See the [Prizes](#prizes-and-bounties) page for wha
 
 #### What are the bounties?
 
-Bounties are put up, chosen and paid by the sponsors alone: ETHRome has no say in the selection and does not handle delivery in any way. All four sponsors have confirmed their amount: **Arkiv $2,500**, **Team1 $1,000**, **Swarm $1,000** and **ENS $500**, for a pool of **$5,000**. What each bounty asks for sits inside its own block on the [Prizes](#prizes-and-bounties) page: click a sponsor and it opens. Three briefs are there in full; the ENS one is on its way from the sponsor and lands in its block as soon as it arrives.
+Bounties are put up, chosen and paid by the sponsors alone: ETHRome has no say in the selection and does not handle delivery in any way. All four sponsors have confirmed their amount: **Arkiv $2,500**, **Team1 $1,000**, **Swarm $1,000** and **ENS $500**, for a pool of **$5,000**. What each bounty asks for sits inside its own block on the [Prizes](#prizes-and-bounties) page: click a sponsor and it opens. All four briefs are there in full.
 
 #### Can I apply to more than one bounty?
 
