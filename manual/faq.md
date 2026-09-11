@@ -1,7 +1,7 @@
 ---
 title: FAQ
 source: https://ethrome.org/hackermanual/faq.html
-synced: 2026-09-10
+synced: 2026-09-11
 ---
 # FAQ
 

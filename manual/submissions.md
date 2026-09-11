@@ -1,7 +1,7 @@
 ---
 title: Submissions
 source: https://ethrome.org/hackermanual/submissions.html
-synced: 2026-09-10
+synced: 2026-09-11
 ---
 # Submissions
 

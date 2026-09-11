@@ -1,7 +1,7 @@
 ---
 title: ETHRome 2026 Hacker Manual
 source: https://ethrome.org/hackermanual/index.html
-synced: 2026-09-10
+synced: 2026-09-11
 ---
 # Hacker Manual
 

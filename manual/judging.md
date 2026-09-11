@@ -1,7 +1,7 @@
 ---
 title: Judging
 source: https://ethrome.org/hackermanual/judging.html
-synced: 2026-09-10
+synced: 2026-09-11
 ---
 # Judging
 

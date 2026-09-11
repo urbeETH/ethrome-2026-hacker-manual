@@ -1,7 +1,7 @@
 ---
 title: How to record your demo video
 source: https://ethrome.org/hackermanual/demo-video.html
-synced: 2026-09-10
+synced: 2026-09-11
 ---
 # Your demo video
 

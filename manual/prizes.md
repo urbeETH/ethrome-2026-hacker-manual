@@ -1,7 +1,7 @@
 ---
 title: Prizes and Bounties
 source: https://ethrome.org/hackermanual/prizes.html
-synced: 2026-09-10
+synced: 2026-09-11
 ---
 # Prizes and Bounties
 
@@ -163,8 +163,8 @@ Normally, uploading to Swarm means running a funded Bee node and buying a postag
 
 #### To qualify
 
-- [ ] **Public repo.** An open source licence is appreciated.
-- [ ] **Short README** saying what it does and how to run it.
+- [ ] **Public repo.** An open source license is appreciated.
+- [ ] **Short README** saying what it does, how to run it, and where in the code Swarm is used.
 - [ ] **A demo**, live, video or in person, showing it working on Swarm.
 - [ ] **One line on where you would take it next.**
 
@@ -172,7 +172,7 @@ Normally, uploading to Swarm means running a funded Bee node and buying a postag
 
 1. **Someone would want to use it.** A clear use case and a demo that lands. Rough edges are fine, a reason to exist is not optional.
 2. **It genuinely runs on Swarm.** Real uploads, real retrieval. Swarm should be doing real work in the app rather than sitting in the README.
-3. **The user experience makes sense.** Storage and identity feel natural to whoever is using the app, whether that is a person or an agent.
+3. **Swarm earns its place.** There should be a real reason the app needs decentralized storage, and the README should say what it is. Building on Swarm for the sake of it is not one.
 4. **It uses Swarm ID.** Strongly recommended but optional. If Bee-js genuinely suits your app better, say why in the README and they judge on the first three.
 
 As a sketch of two different ways to win: the app they would most want to keep using, and the most inventive use of Swarm itself. Whichever two are strongest win.
