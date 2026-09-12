@@ -1,7 +1,7 @@
 ---
 title: Hackathon Rules
 source: https://ethrome.org/hackermanual/rules.html
-synced: 2026-09-11
+synced: 2026-09-12
 ---
 # Hackathon Rules
 

@@ -1,7 +1,7 @@
 ---
 title: Prizes and Bounties
 source: https://ethrome.org/hackermanual/prizes.html
-synced: 2026-09-11
+synced: 2026-09-12
 ---
 # Prizes and Bounties
 
@@ -21,7 +21,7 @@ A year of desks, rooms and community at Rome's first web3 coworking space: the s
 
 1. **Sponsors choose and sponsors pay.** ETHRome has no say in who wins a bounty and does not handle delivery in any way. Each sponsor has its own brief, its own criteria and its own process, and runs any KYC on its own side.
 2. **Apply to as many as genuinely fit.** There is no limit, and going after a bounty does not affect how the ETHRome judges score you.
-3. **Tick the box in the submission form.** Sponsors only look at the projects that selected their bounty. If you do not tick it, you are not in the running, no matter what you built.
+3. **Tick the box in the submission form.** Sponsors only look at the projects that selected their bounty. If you do not tick it, you are not in the running, no matter what you built. **Arkiv and Team1 also run a form of their own**: for those two, ticking the box is necessary and not sufficient.
 4. **Show them your project on Sunday.** During the judging window from 10:30, teams also walk each sponsor whose bounty they applied to through what they made. That conversation is between you and the sponsor.
 
 ### Arkiv · $2,500: A Web3 database you can actually query
@@ -45,9 +45,9 @@ A year of desks, rooms and community at Rome's first web3 coworking space: the s
 
 #### Why it is worth your weekend
 
-Arkiv is an early product and they say so: they are coming to Rome to find the issues in the docs, the faucet, the API keys, the SDK, the features and the explorer, and 40 people using all of it at once is the best test they can get. That is why every entry files a bug report, why its quality is a fifth of the score, and why a ten-minute conversation with them is a qualification requirement rather than a nice-to-have. If you like being the person who finds the edge, this is the bounty for you.
+Arkiv is an early product and they say so: they are coming to Rome to find the issues in the docs, the faucet, the API keys, the SDK, the features and the explorer, and 40 people using all of it at once is the best test they can get. That is why every entry files a feedback report, and why it is worth a quarter of the score: what worked, what got in your way, what they should improve, with specific examples and, where it applies, the steps to reproduce. If you like being the person who finds the edge, this is the bounty for you.
 
-Their Friday session leaves you with a draft `/arkiv/schema.md` for your own project, which is requirement 1 of the bounty. Twenty minutes, and the first deliverable is done.
+Their Friday session leaves you with a draft `/arkiv/schema.md` for your own project. Twenty minutes, and your data model is done.
 
 > 🎯 **Pick at least one mission.** Each mission pays $500 to the best qualifying entry that completed it, and every qualifying project competes automatically for the $1,000 Best Use of Arkiv. Doing all three puts you in three prize lines, but a team wins once: it does not pay three times.
 
@@ -71,31 +71,31 @@ Their Friday session leaves you with a draft `/arkiv/schema.md` for your own pro
 
 **Done when** your app updates from a subscription rather than from a refresh loop of your own.
 
-**Know this before you pick it:** the SDK's subscribe helper only opens a real socket if your client uses a websocket transport. With an HTTP transport it quietly polls once a second and the code looks identical. Passing a start block to replay history forces polling too, so the backfill you reach for after a dropped connection is the very thing that turns your subscription back into a loop. Working that out is the mission; put what you find in your `friction.md`.
+**Know this before you pick it:** the SDK's subscribe helper only opens a real socket if your client uses a websocket transport. With an HTTP transport it quietly polls once a second and the code looks identical. Passing a start block to replay history forces polling too, so the backfill you reach for after a dropped connection is the very thing that turns your subscription back into a loop. Working that out is the mission; put what you find in your feedback report.
+
+**Where to look:** the [Arkiv WebSocket endpoint](https://docs.arkiv.network/networks/tiramisu/#network-reference) is in their network reference, and they point at [event subscriptions with viem](https://viem.sh/docs/actions/public/watchEvent#poll-optional) as the recipe: filter the events your app needs and update the UI from the stream, with no polling loop.
 
 **They check:** the line where you build the client, showing a websocket transport, and your live subscription with no start block. A two-wallet demo on its own cannot tell a socket from a poll, so they need both: the code and the demo (one of you writes, the other's screen updates without a refresh), plus a few lines on what happened when you dropped the connection.
 
-> ⚠️ **Mission 03 needs a live websocket endpoint.** If one is not available during the event, Arkiv says so at the opening ceremony and the mission is off. The other two missions and the $1,000 are unaffected either way.
-
 #### To qualify
 
-- [ ] **Tick Arkiv on the ETHRome submission form** and name the missions you went for.
-- [ ] **Public repo** with everything they score in it by the ETHRome deadline, Sunday 10:00.
-- [ ] **A draft `/arkiv/schema.md`** in the repo. Their Friday session gets you there.
-- [ ] **A `friction.md` bug report**: what broke, what confused you, what you worked around. It is a fifth of the score.
-- [ ] **A ten-minute conversation with the Arkiv team by Saturday 20:00.** That is when you give them your repo URL. It cannot be done on Sunday morning.
+- [ ] **Fill Arkiv's own form**, the [Arkiv bounty submission](https://tally.so/r/vGZ98v). It asks which missions you went for, which SDK you used and which parts of Arkiv you touched. This is the form their team reads.
+- [ ] **Tick Arkiv on the ETHRome submission form** too, so the organisers know where to send them on Sunday.
+- [ ] **A public GitHub repo** with everything they score in it by the ETHRome deadline, Sunday 10:00.
+- [ ] **A deployed demo** they can open, showing the core user flow you want them to follow.
+- [ ] **A feedback report**: what worked, what got in your way, what they should improve. Specific examples, and steps to reproduce where it applies. A quarter of the score.
+- [ ] **Arkiv evidence**: the queries, the code, whatever shows Arkiv is really doing the work in your app.
 
-> 🔗 **Full requirements, schema template and support hours** live on their ETHRome page, [hub.arkiv.network/ethrome](https://hub.arkiv.network/ethrome), kept current during the event. It goes live before the weekend (TBD). The list above is everything their brief states today; if their page adds a requirement, this block is updated and the Telegram group gets a ping.
+> 🔗 **Their ETHRome page is live:** [hub.arkiv.network/ethrome](https://hub.arkiv.network/ethrome) carries the submission form, the three missions, the judging criteria and the ETHRome MCP, and they keep it current during the event. If that page and this one ever disagree, theirs wins: it is their bounty, and this block follows it.
 
 #### How they score, one ranking for everything
 
-Only entries that qualified get scored. This single ranking decides Best Use of Arkiv and, within each mission, who takes its $500.
+The same four criteria apply to all three missions and to Best Use of Arkiv. Only entries that qualified get scored, and this single ranking decides Best Use of Arkiv and, within each mission, who takes its $500. **Arkiv updated these weights on Saturday 12 September**, on their ETHRome page.
 
-1. **Query depth, 30.** Compound filters over typed attributes that do real work, not a lookup by id.
-2. **Evidence and reproducibility, 20.** They can run what you claim.
-3. **Arkiv fit and trade-offs, 20.** What went in attributes, what stayed in the payload, and why.
-4. **Friction quality, 20.** The bug report. Precise, reproducible, honest.
-5. **Craft, 10.** Clarity, reliability and completeness. Not visual polish.
+1. **Why Arkiv, 30%.** What does Arkiv let your app do that a Web2 database cannot?
+2. **Technical execution, 25%.** Does your app work end to end? Show the core user flow and how Arkiv powers it.
+3. **Usefulness and adoption potential, 20%.** Who will use this, what problem it solves, and how you would reach your first 100 users.
+4. **Arkiv feedback, 25%.** What worked, what got in your way, what they should improve. Specific examples and, where it applies, steps to reproduce.
 
 #### How winners get paid
 
@@ -112,27 +112,29 @@ Prizes are paid directly by the Arkiv team (Golem Factory GmbH) as a grant for d
 
 **Start here**
 
-- [Arkiv at ETHRome](https://hub.arkiv.network/ethrome), rules, schema template, support hours. Live before the weekend.
-- [Arkiv Hub](https://hub.arkiv.network)
-- [docs.arkiv.network](https://docs.arkiv.network)
+- [Arkiv at ETHRome](https://hub.arkiv.network/ethrome): submission form, missions, criteria. Live, and kept current all weekend.
+- [The Arkiv bounty submission form](https://tally.so/r/vGZ98v)
+- [Arkiv Hub](https://hub.arkiv.network) · [docs.arkiv.network](https://docs.arkiv.network)
 
 **Code and SDK**
 
 - TypeScript SDK: `npm install @arkiv-network/sdk`, v0.7.x
 - Searching npm? `arkiv-sdk` and `golem-base-sdk` are the previous lineage, not the one to install.
 - [Arkiv on GitHub](https://github.com/arkiv-network)
+- **ETHRome MCP**: add `https://arkiv-mcp-gateway.vercel.app/ethrome` as a remote MCP server (Streamable HTTP, no wallet or key needed). Docs, recipes and prompts for your agent.
 
 **Ask**
 
+- [Their ETHRome channel on Discord](https://discord.com/channels/1422146278883852412/1473629252183392266), the room they point you to
 - [Arkiv Discord](https://discord.gg/arkiv)
 - The Arkiv topic of the ETHRome group chat, for anything about the bounty itself
 - [Brand assets](https://arkiv.network/brand), if you want their logo in your demo
 
-> 💬 **Who to talk to.** Santiago Trujillo Zuluaga, **@SantiagoDevRel**, for data modelling, the SDK and the bounty sign-offs. Shantelle Awomoyi, **@shantelleawo**, for anything about prizes. Both are in the Arkiv topic of the ETHRome group chat and on site the whole weekend.
+> 💬 **Who to talk to.** Santiago Trujillo Zuluaga, **@SantiagoDevRel**, for data modelling and the SDK. Shantelle Awomoyi, **@shantelleawo**, for anything about prizes. Both are in the Arkiv topic of the ETHRome group chat and on site the whole weekend.
 >
-> They walk the floor rather than sit at the table, especially on Saturday. If they are not at their spot, ask an organiser to ping them. Mentor sessions and sign-offs run all Saturday until 20:00.
+> They walk the floor rather than sit at the table. If they are not at their spot, ask an organiser to ping them.
 >
-> Santiago's session is Friday at 19:00: **From Postgres to Arkiv: web2 to web3 database in 20 minutes**. A live migration of a Postgres database to Arkiv with an AI assistant connected to their ETHRome Arkiv MCP, table by table, on screen. Beginner friendly, and you leave with the schema.md the bounty asks for. Shantelle also opens the weekend with a short keynote inside the opening ceremony at 18:30.
+> Santiago's session is Friday at 19:00: **From Postgres to Arkiv: web2 to web3 database in 20 minutes**. A live migration of a Postgres database to Arkiv with an AI assistant connected to their ETHRome Arkiv MCP, table by table, on screen. Beginner friendly, and you leave with a draft schema.md for your own project. Shantelle also opens the weekend with a short keynote inside the opening ceremony at 18:30.
 
 ### Swarm · $1,000: Build an app where users own their data
 

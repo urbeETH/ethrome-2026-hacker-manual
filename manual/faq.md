@@ -1,7 +1,7 @@
 ---
 title: FAQ
 source: https://ethrome.org/hackermanual/faq.html
-synced: 2026-09-11
+synced: 2026-09-12
 ---
 # FAQ
 
@@ -93,9 +93,9 @@ Bounties are put up, chosen and paid by the sponsors alone: ETHRome has no say i
 
 Yes. Apply to as many bounties as genuinely fit what you built, by ticking them in the submission form. Going after a bounty does not affect how the ETHRome judges score you.
 
-**Team1 is the one exception, twice over.** Inside their bounty you enter one track only, Track A or Track B, and the form asks you which. They also run their own submission form on top of ours, so for that bounty you fill in both. Details in the Team1 block on the [Prizes](prizes.md) page.
+**Two bounties ask for a second step.** Team1 and **Arkiv** each run their own submission form on top of ours, so for those two you fill in both: the [Arkiv bounty submission](https://tally.so/r/vGZ98v) is live on their ETHRome page. Team1 has one more rule of its own: you enter one track only, Track A or Track B, and their form asks you which. Details in each block on the [Prizes](prizes.md) page.
 
-**Arkiv works the other way round:** you can go for one, two or all three of their missions, but a team wins one Arkiv prize at most. Their block has the rest.
+**Arkiv also works the other way round on missions:** you can go for one, two or all three, but a team wins one Arkiv prize at most. Their block has the rest.
 
 ### How do I get paid if I win a bounty?
 

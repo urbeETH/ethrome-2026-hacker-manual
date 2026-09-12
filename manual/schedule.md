@@ -1,7 +1,7 @@
 ---
 title: Schedule
 source: https://ethrome.org/hackermanual/schedule.html
-synced: 2026-09-11
+synced: 2026-09-12
 ---
 # Schedule
 
@@ -43,7 +43,7 @@ All times are Europe/Rome (CEST).
 |---|---|---|
 | 09:00 | Breakfast | Fuel up before the long stretch. |
 | 13:00 | Lunch | Step away from the keyboard for twenty minutes. |
-| 20:00 | Dinner, and the Arkiv cut-off | Last full meal before the final push. Going for Arkiv? Your friction report and the ten-minute conversation with their team close now, not on Sunday. |
+| 20:00 | Dinner | Last full meal before the final push. Going for Arkiv? Their own submission form is the one their team reads: fill it in before Sunday 10:00. |
 | 00:00 | Midnight Roman street food | The one that carries you to sunrise. |
 
 ### Sunday 13 September

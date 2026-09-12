@@ -1,7 +1,7 @@
 ---
 title: Submissions
 source: https://ethrome.org/hackermanual/submissions.html
-synced: 2026-09-11
+synced: 2026-09-12
 ---
 # Submissions
 
@@ -18,7 +18,9 @@ Submission runs on a **Google Form**. You open it, fill it in once, and you are 
 
 **The form closes on Sunday 13 September at 10:00 (Europe/Rome), the same moment hacking ends.** Submit early, then keep editing until the deadline if you need to.
 
-> 🔗 **The Google Form link lands here before the event**, and goes out at the same time in the [Telegram group](https://t.me/+wpq6ea2etywwYzI0). Bookmark this page: it is where you will come back to submit.
+> 🔗 **The Google Form link lands here**, and goes out at the same time in the [Telegram group](https://t.me/+wpq6ea2etywwYzI0). Bookmark this page: it is where you will come back to submit.
+
+> 📮 **Two bounties want a second form.** **Arkiv** reads submissions from its own page: fill in the [Arkiv bounty submission](https://tally.so/r/vGZ98v) as well, or their team never sees your project. **Team1** does the same on their side. Everyone else is covered by the form above.
 
 (TBD) Google Form link, published before the event.
 

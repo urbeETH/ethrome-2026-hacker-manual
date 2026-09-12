@@ -1,7 +1,7 @@
 ---
 title: Rome
 source: https://ethrome.org/hackermanual/rome.html
-synced: 2026-09-11
+synced: 2026-09-12
 ---
 # Rome
 
