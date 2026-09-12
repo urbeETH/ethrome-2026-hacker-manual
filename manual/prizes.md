@@ -21,7 +21,7 @@ A year of desks, rooms and community at Rome's first web3 coworking space: the s
 
 1. **Sponsors choose and sponsors pay.** ETHRome has no say in who wins a bounty and does not handle delivery in any way. Each sponsor has its own brief, its own criteria and its own process, and runs any KYC on its own side.
 2. **Apply to as many as genuinely fit.** There is no limit, and going after a bounty does not affect how the ETHRome judges score you.
-3. **Tick the box in the submission form.** Sponsors only look at the projects that selected their bounty. If you do not tick it, you are not in the running, no matter what you built. **Arkiv and Team1 also run a form of their own**: for those two, ticking the box is necessary and not sufficient.
+3. **Tick the box in the [submission form](https://docs.google.com/forms/d/e/1FAIpQLScdCOFnyunh91iIm8Br3MH6QU2v0f_DmaRAifV1Fm5HcLrAJA/viewform).** Sponsors only look at the projects that selected their bounty. If you do not tick it, you are not in the running, no matter what you built. **Arkiv and Team1 also run a form of their own**: for those two, ticking the box is necessary and not sufficient.
 4. **Show them your project on Sunday.** During the judging window from 10:30, teams also walk each sponsor whose bounty they applied to through what they made. That conversation is between you and the sponsor.
 
 ### Arkiv · $2,500: A Web3 database you can actually query

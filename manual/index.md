@@ -26,7 +26,7 @@ Forty selected builders, forty hours, one weekend at Urbe Hub. Everything you ne
 | **Doors open** | Friday 16:00 |
 | **Submission** | Sunday 10:00 |
 
-> 🚧 **Two links are still being finalised** and are marked (TBD) wherever they appear: the ETHRome submission form, and the Team1 form that sits on top of it. **Arkiv's own form is live**, and for that bounty it is the one their team reads: [the Arkiv bounty submission](https://tally.so/r/vGZ98v). All four sponsor briefs are live in full on the [Prizes](prizes.md) page. The links land here as they are confirmed, and the Telegram group gets a ping each time. Everything else is final.
+> 🚧 **The submission form is live:** [open it here](https://docs.google.com/forms/d/e/1FAIpQLScdCOFnyunh91iIm8Br3MH6QU2v0f_DmaRAifV1Fm5HcLrAJA/viewform), deadline Sunday at 10:00. **Arkiv runs a second form of its own** and for that bounty it is the one their team reads: [the Arkiv bounty submission](https://tally.so/r/vGZ98v). **One link is still missing**, the Team1 form that sits on top of ours, marked (TBD) wherever it appears. All four sponsor briefs are live in full on the [Prizes](prizes.md) page. Everything else is final.
 
 ## Nine pages, no surprises.
 
@@ -58,7 +58,7 @@ Minimum requirements, how your judging slot runs, and the scoring criteria with 
 
 ### 📤 Submissions
 
-One Google Form, filled in once. Deadline Sunday at 10:00 sharp.
+One Google Form, filled in once, live now. Deadline Sunday at 10:00 sharp.
 
 [Read →](submissions.md)
 

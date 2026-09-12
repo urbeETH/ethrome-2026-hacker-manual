@@ -59,7 +59,7 @@ Miss one and the team is excluded from the competition. Full detail on the [Rule
 
 ### When and where do I submit?
 
-Through a single **Google Form**. Deadline: Sunday 13 September at 10:00 (Europe/Rome). Everything the form asks is on the [Submit](submissions.md) page.
+Through a single **Google Form**, live here: [open the submission form](https://docs.google.com/forms/d/e/1FAIpQLScdCOFnyunh91iIm8Br3MH6QU2v0f_DmaRAifV1Fm5HcLrAJA/viewform). Deadline: Sunday 13 September at 10:00 (Europe/Rome). Everything the form asks is on the [Submit](submissions.md) page.
 
 ### Can I give this manual to my AI agent?
 
@@ -101,4 +101,4 @@ Yes. Apply to as many bounties as genuinely fit what you built, by ticking them 
 
 By the sponsor, directly. ETHRome does not distribute bounty prizes and does not run KYC on bounty winners: each sponsor pays its own winners and handles any checks on its own side. Each sponsor tells its winners how and when, after the event. Nothing about the payout changes what you build, so do not let it slow you down.
 
-> ⚠️ **One link is still missing.** Team1 runs its own submission form on top of ours and the link arrives before the event; it lands in their block on the Prizes page and in the Telegram group. Everything else on this page is confirmed.
+> ⚠️ **One link is still missing.** Team1 runs its own submission form on top of ours and it has not arrived yet; it lands in their block on the Prizes page and in the Telegram group. The ETHRome form and the Arkiv one are both live. Everything else on this page is confirmed.

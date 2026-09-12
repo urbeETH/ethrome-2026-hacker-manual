@@ -53,7 +53,7 @@ All times are Europe/Rome (CEST).
 | Time | What | Notes |
 |---|---|---|
 | 09:00 | Breakfast | The last hour is the fastest. Eat first. |
-| 10:00 | **Submission deadline** | Hands off the keyboard. Late entries do not count. |
+| 10:00 | **Submission deadline** | Hands off the keyboard. Late entries do not count. The [form](https://docs.google.com/forms/d/e/1FAIpQLScdCOFnyunh91iIm8Br3MH6QU2v0f_DmaRAifV1Fm5HcLrAJA/viewform) closes by itself. |
 | 10:30 | Judging session | Project reviews plus sponsor bounty reviews. |
 | 13:00 | Lunch | Breathe. The hard part is done. |
 | 15:00 | **Closing ceremony and awards** | Demos on stage, then the overall winner and the sponsor bounties. |

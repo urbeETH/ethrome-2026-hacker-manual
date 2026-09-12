@@ -10,7 +10,7 @@ synced: 2026-09-12
 | Value | Detail |
 |---|---|
 | **Sunday 10:00** | Deadline, 13 September, Europe/Rome |
-| **Platform** | A Google Form |
+| **Platform** | [A Google Form](https://docs.google.com/forms/d/e/1FAIpQLScdCOFnyunh91iIm8Br3MH6QU2v0f_DmaRAifV1Fm5HcLrAJA/viewform) |
 | **3 min max** | Demo video length |
 | **Public repo** | Open, and staying open for 4 weeks |
 
@@ -18,25 +18,27 @@ Submission runs on a **Google Form**. You open it, fill it in once, and you are 
 
 **The form closes on Sunday 13 September at 10:00 (Europe/Rome), the same moment hacking ends.** Submit early, then keep editing until the deadline if you need to.
 
-> 🔗 **The Google Form link lands here**, and goes out at the same time in the [Telegram group](https://t.me/+wpq6ea2etywwYzI0). Bookmark this page: it is where you will come back to submit.
+- [Open the submission form](https://docs.google.com/forms/d/e/1FAIpQLScdCOFnyunh91iIm8Br3MH6QU2v0f_DmaRAifV1Fm5HcLrAJA/viewform)
+
+- [Telegram group](https://t.me/+wpq6ea2etywwYzI0)
 
 > 📮 **Two bounties want a second form.** **Arkiv** reads submissions from its own page: fill in the [Arkiv bounty submission](https://tally.so/r/vGZ98v) as well, or their team never sees your project. **Team1** does the same on their side. Everyone else is covered by the form above.
 
-(TBD) Google Form link, published before the event.
+One submission per team, filled in by the team leader. You can edit your answers until the deadline, so submit early and refine later.
 
 ## What it asks
 
-*Nine fields. Read them now, so that on Sunday morning you are pasting answers, not writing them.*
+*Read them now, so that on Sunday morning you are pasting answers, not writing them. It asks for your email first.*
 
-1. **Team name** and the name of every member.
-2. **Team leader**, plus a Telegram contact that stays responsive during the judging session. If judges have a question and nobody answers, that is your problem.
-3. **Project name** and a few lines on what you built.
-4. **What it does, in one line.** The sentence a judge reads before opening your repository.
-5. **Sponsor bounties** you are applying to. Tick every one that applies.
-6. **Link to the public repository.** It must be open, and it must stay open for 4 weeks.
-7. **Link to the demo video**, 3 minutes maximum.
-8. **Contract addresses**, if your project deploys anything on chain.
-9. **Pre-existing project?** If yes, spell out what already existed and what you built during the weekend.
+1. **Team name**, then **team members**, the name of every one of you.
+2. **Team leader**, and the **Telegram handle** of that person. It has to stay responsive during the judging session: if judges have a question and nobody answers, that is your problem.
+3. **Project name** and **what it does, in one line.** That line is the sentence a judge reads before opening your repository.
+4. **What you built**, a few lines: what it does, how it works, what is actually running.
+5. **Public repository.** It must be open now, and it must stay open for 4 weeks.
+6. **Demo video**, 3 minutes maximum, and the link has to work without login.
+7. **Contract addresses**, if your project deploys anything on chain. Optional.
+8. **Pre-existing project?** If yes, spell out what already existed and what you built during the weekend.
+9. **Sponsor bounties** you are applying to. Tick every one that applies.
 
 > ☑️ **Tick your bounty boxes.** Sponsors only look at the projects that selected their bounty. If you do not tick it, you are not in the running, no matter what you built. This is the single most common way teams lose money at a hackathon.
 
@@ -48,6 +50,7 @@ Submission runs on a **Google Form**. You open it, fill it in once, and you are 
 - [ ] Demo video under 3 minutes, link works without login
 - [ ] One-line description written
 - [ ] Every relevant sponsor bounty ticked
+- [ ] Arkiv or Team1: the sponsor's own form filled in as well
 - [ ] Telegram contact listed and responsive
 - [ ] Form submitted before Sunday 10:00
 

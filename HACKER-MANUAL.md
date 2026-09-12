@@ -1,6 +1,6 @@
 # ETHRome 2026 Hacker Manual
 
-Synced from https://ethrome.org/hackermanual on 2026-09-12 (site commit `0b914b7`). The website is the canonical version.
+Synced from https://ethrome.org/hackermanual on 2026-09-12 (site commit `d95edeb`). The website is the canonical version.
 
 ## Contents
 
@@ -38,7 +38,7 @@ Forty selected builders, forty hours, one weekend at Urbe Hub. Everything you ne
 | **Doors open** | Friday 16:00 |
 | **Submission** | Sunday 10:00 |
 
-> 🚧 **Two links are still being finalised** and are marked (TBD) wherever they appear: the ETHRome submission form, and the Team1 form that sits on top of it. **Arkiv's own form is live**, and for that bounty it is the one their team reads: [the Arkiv bounty submission](https://tally.so/r/vGZ98v). All four sponsor briefs are live in full on the [Prizes](#prizes-and-bounties) page. The links land here as they are confirmed, and the Telegram group gets a ping each time. Everything else is final.
+> 🚧 **The submission form is live:** [open it here](https://docs.google.com/forms/d/e/1FAIpQLScdCOFnyunh91iIm8Br3MH6QU2v0f_DmaRAifV1Fm5HcLrAJA/viewform), deadline Sunday at 10:00. **Arkiv runs a second form of its own** and for that bounty it is the one their team reads: [the Arkiv bounty submission](https://tally.so/r/vGZ98v). **One link is still missing**, the Team1 form that sits on top of ours, marked (TBD) wherever it appears. All four sponsor briefs are live in full on the [Prizes](#prizes-and-bounties) page. Everything else is final.
 
 ### Nine pages, no surprises.
 
@@ -70,7 +70,7 @@ Minimum requirements, how your judging slot runs, and the scoring criteria with 
 
 #### 📤 Submissions
 
-One Google Form, filled in once. Deadline Sunday at 10:00 sharp.
+One Google Form, filled in once, live now. Deadline Sunday at 10:00 sharp.
 
 [Read →](#submissions)
 
@@ -195,7 +195,7 @@ A year of desks, rooms and community at Rome's first web3 coworking space: the s
 
 1. **Sponsors choose and sponsors pay.** ETHRome has no say in who wins a bounty and does not handle delivery in any way. Each sponsor has its own brief, its own criteria and its own process, and runs any KYC on its own side.
 2. **Apply to as many as genuinely fit.** There is no limit, and going after a bounty does not affect how the ETHRome judges score you.
-3. **Tick the box in the submission form.** Sponsors only look at the projects that selected their bounty. If you do not tick it, you are not in the running, no matter what you built. **Arkiv and Team1 also run a form of their own**: for those two, ticking the box is necessary and not sufficient.
+3. **Tick the box in the [submission form](https://docs.google.com/forms/d/e/1FAIpQLScdCOFnyunh91iIm8Br3MH6QU2v0f_DmaRAifV1Fm5HcLrAJA/viewform).** Sponsors only look at the projects that selected their bounty. If you do not tick it, you are not in the running, no matter what you built. **Arkiv and Team1 also run a form of their own**: for those two, ticking the box is necessary and not sufficient.
 4. **Show them your project on Sunday.** During the judging window from 10:30, teams also walk each sponsor whose bounty they applied to through what they made. That conversation is between you and the sponsor.
 
 #### Arkiv · $2,500: A Web3 database you can actually query
@@ -583,7 +583,7 @@ All times are Europe/Rome (CEST).
 | Time | What | Notes |
 |---|---|---|
 | 09:00 | Breakfast | The last hour is the fastest. Eat first. |
-| 10:00 | **Submission deadline** | Hands off the keyboard. Late entries do not count. |
+| 10:00 | **Submission deadline** | Hands off the keyboard. Late entries do not count. The [form](https://docs.google.com/forms/d/e/1FAIpQLScdCOFnyunh91iIm8Br3MH6QU2v0f_DmaRAifV1Fm5HcLrAJA/viewform) closes by itself. |
 | 10:30 | Judging session | Project reviews plus sponsor bounty reviews. |
 | 13:00 | Lunch | Breathe. The hard part is done. |
 | 15:00 | **Closing ceremony and awards** | Demos on stage, then the overall winner and the sponsor bounties. |
@@ -665,7 +665,7 @@ One finalist team demos live on stage during the closing ceremony: the best proj
 | Value | Detail |
 |---|---|
 | **Sunday 10:00** | Deadline, 13 September, Europe/Rome |
-| **Platform** | A Google Form |
+| **Platform** | [A Google Form](https://docs.google.com/forms/d/e/1FAIpQLScdCOFnyunh91iIm8Br3MH6QU2v0f_DmaRAifV1Fm5HcLrAJA/viewform) |
 | **3 min max** | Demo video length |
 | **Public repo** | Open, and staying open for 4 weeks |
 
@@ -673,25 +673,27 @@ Submission runs on a **Google Form**. You open it, fill it in once, and you are 
 
 **The form closes on Sunday 13 September at 10:00 (Europe/Rome), the same moment hacking ends.** Submit early, then keep editing until the deadline if you need to.
 
-> 🔗 **The Google Form link lands here**, and goes out at the same time in the [Telegram group](https://t.me/+wpq6ea2etywwYzI0). Bookmark this page: it is where you will come back to submit.
+- [Open the submission form](https://docs.google.com/forms/d/e/1FAIpQLScdCOFnyunh91iIm8Br3MH6QU2v0f_DmaRAifV1Fm5HcLrAJA/viewform)
+
+- [Telegram group](https://t.me/+wpq6ea2etywwYzI0)
 
 > 📮 **Two bounties want a second form.** **Arkiv** reads submissions from its own page: fill in the [Arkiv bounty submission](https://tally.so/r/vGZ98v) as well, or their team never sees your project. **Team1** does the same on their side. Everyone else is covered by the form above.
 
-(TBD) Google Form link, published before the event.
+One submission per team, filled in by the team leader. You can edit your answers until the deadline, so submit early and refine later.
 
 ### What it asks
 
-*Nine fields. Read them now, so that on Sunday morning you are pasting answers, not writing them.*
+*Read them now, so that on Sunday morning you are pasting answers, not writing them. It asks for your email first.*
 
-1. **Team name** and the name of every member.
-2. **Team leader**, plus a Telegram contact that stays responsive during the judging session. If judges have a question and nobody answers, that is your problem.
-3. **Project name** and a few lines on what you built.
-4. **What it does, in one line.** The sentence a judge reads before opening your repository.
-5. **Sponsor bounties** you are applying to. Tick every one that applies.
-6. **Link to the public repository.** It must be open, and it must stay open for 4 weeks.
-7. **Link to the demo video**, 3 minutes maximum.
-8. **Contract addresses**, if your project deploys anything on chain.
-9. **Pre-existing project?** If yes, spell out what already existed and what you built during the weekend.
+1. **Team name**, then **team members**, the name of every one of you.
+2. **Team leader**, and the **Telegram handle** of that person. It has to stay responsive during the judging session: if judges have a question and nobody answers, that is your problem.
+3. **Project name** and **what it does, in one line.** That line is the sentence a judge reads before opening your repository.
+4. **What you built**, a few lines: what it does, how it works, what is actually running.
+5. **Public repository.** It must be open now, and it must stay open for 4 weeks.
+6. **Demo video**, 3 minutes maximum, and the link has to work without login.
+7. **Contract addresses**, if your project deploys anything on chain. Optional.
+8. **Pre-existing project?** If yes, spell out what already existed and what you built during the weekend.
+9. **Sponsor bounties** you are applying to. Tick every one that applies.
 
 > ☑️ **Tick your bounty boxes.** Sponsors only look at the projects that selected their bounty. If you do not tick it, you are not in the running, no matter what you built. This is the single most common way teams lose money at a hackathon.
 
@@ -703,6 +705,7 @@ Submission runs on a **Google Form**. You open it, fill it in once, and you are 
 - [ ] Demo video under 3 minutes, link works without login
 - [ ] One-line description written
 - [ ] Every relevant sponsor bounty ticked
+- [ ] Arkiv or Team1: the sponsor's own form filled in as well
 - [ ] Telegram contact listed and responsive
 - [ ] Form submitted before Sunday 10:00
 
@@ -814,7 +817,7 @@ Miss one and the team is excluded from the competition. Full detail on the [Rule
 
 #### When and where do I submit?
 
-Through a single **Google Form**. Deadline: Sunday 13 September at 10:00 (Europe/Rome). Everything the form asks is on the [Submit](#submissions) page.
+Through a single **Google Form**, live here: [open the submission form](https://docs.google.com/forms/d/e/1FAIpQLScdCOFnyunh91iIm8Br3MH6QU2v0f_DmaRAifV1Fm5HcLrAJA/viewform). Deadline: Sunday 13 September at 10:00 (Europe/Rome). Everything the form asks is on the [Submit](#submissions) page.
 
 #### Can I give this manual to my AI agent?
 
@@ -856,7 +859,7 @@ Yes. Apply to as many bounties as genuinely fit what you built, by ticking them 
 
 By the sponsor, directly. ETHRome does not distribute bounty prizes and does not run KYC on bounty winners: each sponsor pays its own winners and handles any checks on its own side. Each sponsor tells its winners how and when, after the event. Nothing about the payout changes what you build, so do not let it slow you down.
 
-> ⚠️ **One link is still missing.** Team1 runs its own submission form on top of ours and the link arrives before the event; it lands in their block on the Prizes page and in the Telegram group. Everything else on this page is confirmed.
+> ⚠️ **One link is still missing.** Team1 runs its own submission form on top of ours and it has not arrived yet; it lands in their block on the Prizes page and in the Telegram group. The ETHRome form and the Arkiv one are both live. Everything else on this page is confirmed.
 
 ## Rome
 
